@@ -55,13 +55,26 @@ Step 2. Navigate to the url of your Nessus install and sign in. (Most of the tim
 <br />
 <br />
 
-Step 3. 
+Step 3. Once you sign in click new scan at the top right corner
+<br />
+<br />
+
+<p align="center">
+<img src="https://imgur.com/vOYiln3.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
 
 
+Step 4. Click Basic Network Scan from the scanner menu 
+<br />
+<br />
 
-
-
-
+<p align="center">
+<img src="https://imgur.com/bOcofn9.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
 
 
 
