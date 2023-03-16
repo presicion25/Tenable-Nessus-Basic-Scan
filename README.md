@@ -192,7 +192,37 @@ Step 9. (Optional) To save and export a report, click Back to Vulnerabilities at
 <br />
 
 
+Step 10. Report types displayed below (HTML Report)
 
+<p align="center">
+<img src="https://imgur.com/80Cf6mZ.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+
+10b. After clicking expand all you can see more information displyed 
+
+<p align="center">
+<img src="https://imgur.com/LpcGQ1j.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+
+10c. CSV Report (Spreadsheet)
+
+<p align="center">
+<img src="https://imgur.com/2G04K3v.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+This is the end of the tutorial. 
+
+<h1>Thank Your for looking! For more content like this, visit <a href="https://exemplarysecurity.com">my website</a>☺</h1>
+<br />
+<br />
 
 
 
