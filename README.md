@@ -112,7 +112,7 @@ Step 7. Click the play button all the way to the right to start the scan (as pic
 <br />
 <br />
 
-7b. As the scan proceeds, you will see a spinning circle (as illustrated below). Click the scan title to see any information being populated.
+7b. As the scan proceeds, you will see a spinning circle (as illustrated below). Click the scan title to see any information being populated. A full scan usually takes at least a few minutes or more. When the circle stops spinning it's finished.
 
 <p align="center">
 <img src="https://imgur.com/7efNG06.png alt="Traffic Examination"/>
