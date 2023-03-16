@@ -4,7 +4,7 @@
 <br />
 <br />
  
-<h1>Tenable Nessus Essentials Basic Scan Tutorial..................(Work In Progress)</h1>
+<h1>Tenable Nessus Essentials Basic Scan Tutorial</h1>
 <br />
 <br />
 
