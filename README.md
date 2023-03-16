@@ -4,7 +4,7 @@
 <br />
 <br />
  
-<h1>Tenable Nessus Basic Scan Tutorial</h1>
+<h1>Tenable Nessus Essentials Basic Scan Tutorial</h1>
 <br />
 <br />
 
@@ -37,7 +37,7 @@ Step 1. Get the ip address of the Virtual Machine you have running by opening a 
 <br />
 <br />
 
-1b.
+1b. Not the ip address of the virtual machine
 <p align="center">
 <img src="https://imgur.com/57qhqzY.png alt="Traffic Examination"/>
 </p>
