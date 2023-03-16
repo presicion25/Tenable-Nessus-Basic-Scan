@@ -60,7 +60,7 @@ Step 3. Once you sign in click new scan at the top right corner
 <br />
 
 <p align="center">
-<img src="https://imgur.com/vOYiln3.png alt="Traffic Examination"/>
+<img src="https://imgur.com/qRo4PuU.png alt="Traffic Examination"/>
 </p>
 <br />
 <br />
@@ -71,7 +71,7 @@ Step 4. Click Basic Network Scan from the scanner menu
 <br />
 
 <p align="center">
-<img src="https://imgur.com/bOcofn9.png alt="Traffic Examination"/>
+<img src="https://imgur.com/lJtCGxb.png alt="Traffic Examination"/>
 </p>
 <br />
 <br />
