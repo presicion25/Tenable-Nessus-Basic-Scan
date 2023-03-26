@@ -85,7 +85,7 @@ Step 5. Fill in a name, choose a folder, a description (optional) and the ip add
 <br />
 
 
-Step 6. Click Windows to open up the crednetial settings
+Step 6. Click Windows to open up the credential settings
 
 <p align="center">
 <img src="https://imgur.com/aVqTtNd.png alt="Traffic Examination"/>
