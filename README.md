@@ -201,7 +201,7 @@ Step 10. Report types displayed below (HTML Report)
 <br />
 
 
-10b. After clicking expand all you can see more information displyed 
+10b. After clicking expand all you can see more information displayed 
 
 <p align="center">
 <img src="https://imgur.com/LpcGQ1j.png alt="Traffic Examination"/>
