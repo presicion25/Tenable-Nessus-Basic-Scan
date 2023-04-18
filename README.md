@@ -22,6 +22,15 @@ In this tutorial, I will demonstrate a basic scan using Tenable Nessus on a Wind
 <br />
 <br />
 
+Click below for the Main Tutorial Steps:
+ 
+ <details close>
+
+<div>
+
+</summary>
+ 
+
 <h2>Main Steps of Deployment and Scan</h2>
 <br />
 <br />
