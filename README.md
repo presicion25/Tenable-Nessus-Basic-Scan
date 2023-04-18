@@ -32,8 +32,6 @@ Click below for the Main Tutorial Steps:
  
 
 <h2>Main Steps of Deployment and Scan</h2>
-<br />
-<br />
 
 
 Step 1. Get the ip address of the Virtual Machine you have running by opening a command window and typing the ipconfig/all command
